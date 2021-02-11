@@ -1,0 +1,3 @@
+GET http://127.0.0.1:52737/logs/train-test.log HTTP/1.1
+
+GET http://127.0.0.1:52737/logs/train-2021-02-test.log HTTP/1.1

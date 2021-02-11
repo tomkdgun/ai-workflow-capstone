@@ -1,0 +1,3 @@
+unittests/__pycache__/*
+my_modules/__pycache__/*
+logs/*

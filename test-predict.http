@@ -1,0 +1,13 @@
+POST http://127.0.0.1:8080/predict HTTP/1.1
+Content-Type: application/json
+
+{
+	"mode": "test",
+	"type": "dict",
+	"query": {
+		"country": "all",
+		"year": "2018",
+		"month": "01",
+		"day": "05"
+	}
+}
