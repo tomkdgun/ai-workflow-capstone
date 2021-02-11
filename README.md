@@ -1,3 +1,23 @@
+AAVAIL_capstone_EDA.pptx - presentation
+
+eda_notebook.ipynb - notebook used for EDA
+
+arima_forecasting.ipynb - notebook used to try ARIMA
+
+https://github.com/tomkdgun/ai-workflow-capstone/tree/master/my_modules - directory with modules for logger, model, data_utils, and plot_utils
+
+https://github.com/tomkdgun/ai-workflow-capstone/tree/master/unittests - unit tests
+
+app.py - server with API
+
+run-tests.py - script to run tests, server needs to be started
+
+https://github.com/tomkdgun/ai-workflow-capstone/tree/master/static/images - Images
+
+*.http - files for REST Client - used also during DEV phase
+
+
+
 # IBM AI Enterprise Workflow Capstone
 Files for the IBM AI Enterprise Workflow Capstone project. 
 
